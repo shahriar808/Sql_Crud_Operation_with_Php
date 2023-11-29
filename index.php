@@ -56,6 +56,7 @@ require 'dbcon.php';
     <input type="text" id="bloodGroup" name="bloodGroup" required>
 
     <button type="submit" name="submit">Submit</button>
+    <button type="submit" name="submit"><a href="show.php">show</a></button>
   </form>
 
 </body>
